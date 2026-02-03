@@ -1,0 +1,28 @@
+id: 2
+pagetitle: 'Карта сайта'
+alias: sitemap
+published: 1
+introtext: ''
+richtext: 0
+template: 1
+menuindex: 1
+createdby: 1
+createdon: 1743026343
+editedby: 1
+editedon: 1743026564
+publishedon: 1743026340
+publishedby: 1
+uri: sitemap
+properties: null
+tvs: {  }
+
+-----
+
+{$_modx->runSnippet('pdoMenu', [
+    'parents' => 0,
+    'level' => '5',
+    'showHidden' => '0'
+    'tplOuter' => '@INLINE <ul id="mobb">{$wrapper}</ul>'
+    'tpl' => '@INLINE <li  class="punkt" {$classes}><a href="{$link}" {$attributes}>{$menutitle}</a>{$wrapper}</li>'
+    'tplInner' => '@INLINE <ul class="sub_menu">{$wrapper}</ul>'
+])}

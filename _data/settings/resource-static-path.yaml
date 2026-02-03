@@ -1,0 +1,4 @@
+key: resource_static_path
+value: '{assets_path}'
+area: static_resources
+editedon: null

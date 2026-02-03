@@ -1,0 +1,5 @@
+key: cache_format
+value: '0'
+xtype: numberfield
+area: caching
+editedon: null

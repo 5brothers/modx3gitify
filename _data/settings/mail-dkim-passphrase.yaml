@@ -1,0 +1,4 @@
+key: mail_dkim_passphrase
+xtype: text-password
+area: mail
+editedon: null

@@ -1,0 +1,5 @@
+key: use_multibyte
+value: '1'
+xtype: combo-boolean
+area: language
+editedon: '2025-03-24 21:09:58'

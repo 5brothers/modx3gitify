@@ -1,0 +1,5 @@
+key: manager_theme
+value: default
+xtype: modx-combo-manager-theme
+area: manager
+editedon: null

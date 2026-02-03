@@ -1,0 +1,5 @@
+key: site_status
+value: '1'
+xtype: combo-boolean
+area: site
+editedon: '2025-04-23 10:49:44'

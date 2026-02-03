@@ -1,0 +1,5 @@
+key: phpthumb_cache_maxfiles
+value: '10000'
+xtype: numberfield
+area: phpthumb
+editedon: null

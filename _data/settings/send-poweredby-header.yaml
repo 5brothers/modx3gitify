@@ -1,0 +1,4 @@
+key: send_poweredby_header
+xtype: combo-boolean
+area: system
+editedon: null

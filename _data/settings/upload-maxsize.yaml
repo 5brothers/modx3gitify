@@ -1,0 +1,5 @@
+key: upload_maxsize
+value: '2097152'
+xtype: numberfield
+area: file
+editedon: '2025-03-24 21:09:58'

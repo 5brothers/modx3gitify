@@ -1,0 +1,4 @@
+key: which_editor
+xtype: modx-combo-rte
+area: editor
+editedon: null

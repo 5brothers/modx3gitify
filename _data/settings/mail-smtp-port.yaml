@@ -1,0 +1,5 @@
+key: mail_smtp_port
+value: '587'
+xtype: numberfield
+area: mail
+editedon: null

@@ -1,0 +1,4 @@
+key: login_help_button
+xtype: combo-boolean
+area: authentication
+editedon: null

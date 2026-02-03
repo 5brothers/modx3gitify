@@ -1,0 +1,26 @@
+id: 1
+source: 1
+name: head
+description: ''
+category: 'Элементы шаблона'
+properties: 'a:0:{}'
+
+-----
+
+<head>
+    <base href="{$_modx->config.site_url}" />
+    <meta charset="{$_modx->config.modx_charset}">
+    <title>{$_modx->resource.pagetitle}</title>
+    <meta name="description" content="{$_modx->resource.description}" />
+    <meta name="keywords" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="{$_modx->config.site_url}{if $_modx->resource.id != '1'}{$_modx->resource.id | url}{/if}"/>
+    <link rel="stylesheet" href="templates/modules/remodal-1.1.1/css/remodal-default-theme.css" />
+    <link rel="stylesheet" href="templates/modules/remodal-1.1.1/css/remodal.css" />
+    <link rel="stylesheet" href="templates/modules/slick-1.8.1/css/slick.css" />
+    <link rel="stylesheet" href="templates/modules/slick-1.8.1/css/slick-theme.css" />
+    <link rel="stylesheet" href="templates/modules/lightbox2-2.11.4/css/lightbox.css" />
+    <link rel="stylesheet" href="templates/css/a5b-styles.css" />
+    <link rel="stylesheet" href="templates/css/a5b-elements.css" />
+    <link rel="icon" type="image/png" href="favicon-64x64.png" sizes="64x64">
+</head>

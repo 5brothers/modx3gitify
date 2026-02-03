@@ -1,0 +1,5 @@
+key: auto_menuindex
+value: '1'
+xtype: combo-boolean
+area: site
+editedon: null

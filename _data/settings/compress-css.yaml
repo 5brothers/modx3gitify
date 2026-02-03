@@ -1,0 +1,5 @@
+key: compress_css
+value: '1'
+xtype: combo-boolean
+area: manager
+editedon: null

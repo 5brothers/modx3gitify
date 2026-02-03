@@ -1,0 +1,5 @@
+key: phpthumb_cache_maxsize
+value: '100'
+xtype: numberfield
+area: phpthumb
+editedon: null

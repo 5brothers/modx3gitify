@@ -1,0 +1,4 @@
+key: use_frozen_parent_uris
+xtype: combo-boolean
+area: furls
+editedon: null

@@ -1,0 +1,33 @@
+data_directory: _data/
+data:
+    templates:
+        class: MODX\Revolution\modTemplate
+        primary: templatename
+        extension: .html
+    chunks:
+        class: MODX\Revolution\modChunk
+        primary: name
+        extension: .html
+    snippets:
+        class: MODX\Revolution\modSnippet
+        primary: name
+        extension: .php
+    plugins:
+        class: MODX\Revolution\modPlugin
+        primary: name
+        extension: .php
+    content:
+        class: MODX\Revolution\modDocument
+        primary: pagetitle
+        extension: .html
+    settings:
+        class: MODX\Revolution\modSystemSetting
+        primary: key
+packages:
+    modx.com:
+        service_url: 'https://rest.modx.com/extras/'
+        description: 'The official MODX transport provider for 3rd party components.'
+        packages:
+            - ace-1.9.3-pl
+            - pdotools-3.0.2-pl
+            - translit-1.0.0-beta

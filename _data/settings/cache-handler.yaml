@@ -1,0 +1,4 @@
+key: cache_handler
+value: xPDO\Cache\xPDOFileCache
+area: caching
+editedon: null

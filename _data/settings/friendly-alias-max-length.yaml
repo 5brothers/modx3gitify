@@ -1,0 +1,5 @@
+key: friendly_alias_max_length
+value: '0'
+xtype: numberfield
+area: furls
+editedon: null

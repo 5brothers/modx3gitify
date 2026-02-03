@@ -1,0 +1,4 @@
+key: cache_resource_clear_partial
+xtype: combo-boolean
+area: caching
+editedon: null

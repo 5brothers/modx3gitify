@@ -1,0 +1,5 @@
+key: pdotools_fenom_php
+xtype: combo-boolean
+namespace: pdotools
+area: pdotools_main
+editedon: null
